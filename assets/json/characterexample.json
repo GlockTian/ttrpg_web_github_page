@@ -1,0 +1,34 @@
+{
+  "id":"",
+  "name": "An random people",
+  "imageUrls": [
+    "https://firebasestorage.googleapis.com/v0/b/glocktrpgapp.appspot.com/o/uploads%2Fimage_picker8753911522189004390.jpg?alt=media&token=f0f6f0aa-6c4c-4253-903e-6d612f6beaeb"
+   ],
+  "gender": "Female",
+  "occupation": {
+    "name": "拳击手、摔跤手",
+    "credit": [
+      9,
+      60
+    ],
+    "skillPoint": "EDU * 2 + STR * 2\n",
+    "skills": "闪避，格斗（斗殴），恐吓，跳跃，心理学，侦查，任意两项其他个人或时代特长。"
+  },
+  "age": 1,
+  "residence": "",
+  "birthPlace": "",
+  "description": "",
+
+  "inventory": [
+    ""
+  ],
+  "weapons": [
+    ""
+  ],
+  "status": [
+
+  ],
+  "skills": [
+
+  ]
+}
