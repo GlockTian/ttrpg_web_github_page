@@ -2,47 +2,47 @@
   {
     "name": "力量",
     "label": "STR",
-    "value": 10
+    "initial": 10
   },
   {
     "name": "体质",
     "label": "CON",
-    "value": 10
+    "initial": 10
   },
   {
     "name": "体型",
     "label": "SIZ",
-    "value": 10
+    "initial": 10
   },
   {
     "name": "敏捷",
     "label": "DEX",
-    "value": 10
+    "initial": 10
   },
   {
     "name": "外貌",
     "label": "APP",
-    "value": 10
+    "initial": 10
   },
   {
     "name": "智力",
     "label": "INT",
-    "value": 10
+    "initial": 10
   },
   {
     "name": "意志",
     "label": "POW",
-    "value": 10
+    "initial": 10
   },
   {
     "name": "教育",
     "label": "EDU",
-    "value": 10
+    "initial": 10
   },
   {
     "name": "SAN值",
     "label": "SAN",
-    "value": 10
+    "initial": 10
   }
 
 ]

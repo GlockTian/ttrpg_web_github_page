@@ -532,6 +532,7 @@
         "contains": [
           {
             "label": "表演",
+            "name": "Performance",
             "initial": 5
           },
           {
